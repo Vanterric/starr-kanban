@@ -15,20 +15,26 @@ class TaskRockStarr extends Component {
         '01': {
           fullName: 'Derrick Gallegos',
           tasks: [
-            ['Establish Key Performance Indicators for all current roles', true],
-            ['Create OKRs for all current roles', true],
-            ['Determine Knowledge Gaps, find a way to fill those gaps, estimate cost, and enter it into Knowledge Gap Document', true],
-            ['Finish MVP for to-do list tool', true],
-            ["Create next week's meeting agenda", true]
+            ['Finish Forcefield Draft', false],
+            ["Set up a local db where I can edit to-do's without needing to edit base code. Ideally faunadb", false],
+            ['Reach out to and schedule calls with interviewees. (Those highlighted in red)', true],
+            ['Make sure Sara is progressing with scheduling calls.', true],
+            ["Note for NH Trailer - Voices are way too quiet when music hypes up. Also, it sounds like the fountain volume wasn't lowered during Troy and Kara's scene by the water", false],
+            ["Check if Enrique, Monica, or Veronika have replied. If not, reach out on fb (Not Monica. If she hasn't replied, she's not interested)", true],
+            ["Create Media Production Kanban board. Backlog, preproduction, production, post production, review, publishing, done", true],
+            ["Make kanban board like the to-do list where you pick which kanban board you'd like to use from a drop down", true],
+            ["Create Program Kanban: Funnel, Analyzing (Benefit hypothesis, acceptance criteria, calculate wsjf, wip limited), Backlog(Features approved by product mgmt), Implementing (Features decomposed into stories), validating on staging (features implemented and deployed to a staging env.), Deploying to production, releasing, done", true],
+            ["Think about creating a program board app", false]
           ]},
         '02': {
           fullName: 'Sara Margolis',
           tasks: [
-            ['Create List of 20-30 filmmakers to reach out to for market research', false], 
             ['Establish Key Performance Indicators for all current roles', false], 
-            ['Create OKRs for all current roles', false],
             ['Determine Knowledge Gaps, find a way to fill those gaps, estimate cost, and enter it into Knowledge Gap Document', false],
-            ['Reach Out to Michelle Bassan to gauge interest in Chief Sales Officer Role', false]
+            ['Reach Out to Michelle Bassan to gauge interest in Chief Sales Officer Role', false],
+            ['Create Next Weeks meeting agenda', false],
+            ['Reach out and Schedule Calls with interviewees (refer to interviewee list for relavent interviewees. Yours are highlighted in purple)', false],
+            ['Help Derrick with forcefield', false]
           ]}
       },
       currentUser: '00'
