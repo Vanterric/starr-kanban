@@ -48,10 +48,10 @@ The heart of the tool. A flexible Kanban system with multiple configurations tai
 
 ## 🛠 Tech Stack
 
-- **React**: UI rendering  
-- **JavaScript (ES6+)**: App logic and state management  
-- **LocalStorage**: Data persistence for single-user sessions  
-- **CSS Modules**: Styling
+- **HTML + CSS** – Core structure and styling of the interface  
+- **JavaScript (ES6+)** – UI logic, dynamic rendering, and state handling  
+- **LocalStorage** – Persistent client-side data storage for task and board state  
+- **Vanilla DOM API** – No frameworks, just clean, native DOM manipulation
 
 > (Tool was used internally and not connected to any cloud database or external APIs)
 
